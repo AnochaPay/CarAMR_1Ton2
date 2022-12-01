@@ -1,0 +1,9 @@
+Port,COM1
+BaudRate,38400
+Melody Value,30
+Percen Bat Min,0
+Percen Bat Max,98
+Speed Max,100
+Speed Down Time,1
+Speed Down Unit,40
+Speed Slow Factor,0.9

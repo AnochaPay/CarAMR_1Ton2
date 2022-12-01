@@ -1,0 +1,13 @@
+Type,Socket
+,UdpClient
+IP,192.168.1.11
+,192.168.43.33
+Port,2201
+Port Config,2111
+Row Config,121
+Quality Min,30
+Quality TimeOut,20000
+Position Limit X,8
+Position Limit Y,8
+Lidar X Different,800000
+Lidar Y Different,800000

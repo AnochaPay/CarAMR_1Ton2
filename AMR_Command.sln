@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AMR_Command", "AMR_Command\AMR_Command.csproj", "{57DB4188-D2E5-4A2D-8CC0-74675002435D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CameraRL", "CameraRL\CameraRL.csproj", "{1D4E6DF0-EEE3-4510-991F-34CF9EE33F40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CameraF", "CameraF\CameraF.csproj", "{322C0E1F-0923-4746-9BED-645C23D9052C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57DB4188-D2E5-4A2D-8CC0-74675002435D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57DB4188-D2E5-4A2D-8CC0-74675002435D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57DB4188-D2E5-4A2D-8CC0-74675002435D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57DB4188-D2E5-4A2D-8CC0-74675002435D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D4E6DF0-EEE3-4510-991F-34CF9EE33F40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D4E6DF0-EEE3-4510-991F-34CF9EE33F40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D4E6DF0-EEE3-4510-991F-34CF9EE33F40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D4E6DF0-EEE3-4510-991F-34CF9EE33F40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{322C0E1F-0923-4746-9BED-645C23D9052C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{322C0E1F-0923-4746-9BED-645C23D9052C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{322C0E1F-0923-4746-9BED-645C23D9052C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{322C0E1F-0923-4746-9BED-645C23D9052C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97D18532-EC3E-4CC9-9973-29C5D7C72CC1}
+	EndGlobalSection
+EndGlobal

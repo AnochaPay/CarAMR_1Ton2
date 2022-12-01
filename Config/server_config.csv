@@ -1,0 +1,10 @@
+Server IP,192.168.1.101
+Server Port,5000
+Clien IP,192.168.3.100
+Clien Port,5000
+Position Send Every,3000
+Remote CF Send Every,3000
+Reverse Send Every,3000
+Junction Send Every,2000
+Error Code Send Every,3000
+Wifi Name,FASTSERVE

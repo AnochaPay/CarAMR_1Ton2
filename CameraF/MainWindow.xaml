@@ -1,0 +1,26 @@
+﻿<Window x:Name="CameraF" x:Class="CameraF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CameraF"
+        mc:Ignorable="d"
+        Title="CameraF" Height="480" Width="800" ResizeMode="NoResize">
+    <Grid x:Name="CameraFFFFFFF" Loaded="CameraFFFFFFF_Loaded" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Height="480" Width="800">
+        <Image x:Name="im_camera" HorizontalAlignment="Left" 
+               Height="441" Margin="10,10,0,0" VerticalAlignment="Top" Width="468"/>
+        <Label Content="Depth =" HorizontalAlignment="Left" Margin="496,58,0,0" VerticalAlignment="Top" FontSize="20" FontFamily="Arial Rounded MT Bold" FontWeight="Normal"/>
+        <Label x:Name="lb_depth" Content="0000" HorizontalAlignment="Left" Margin="599,58,0,0" VerticalAlignment="Top" FontSize="20" FontFamily="Arial Rounded MT Bold" FontWeight="Normal"/>
+        <Button x:Name="bt_setCamera" Content="Set Image" HorizontalAlignment="Left" Height="43" Margin="496,115,0,0" VerticalAlignment="Top" Width="135" FontSize="18" FontWeight="Bold" Click="bt_setCamera_Click"/>
+        <Button x:Name="bt_getImage" Content="Get Image" Height="43" Margin="496,163,0,0" Width="135" FontSize="18" FontWeight="Bold" Click="bt_getImage_Click" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+        <Button x:Name="bt_getDepth" Content="Get Depth" Height="43" Margin="496,260,0,0" Width="135" FontSize="18" FontWeight="Bold" Click="bt_getDepth_Click" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+        <Button x:Name="bt_auto" Content="Auto" HorizontalAlignment="Left" Height="43" Margin="496,308,0,0" VerticalAlignment="Top" Width="135" FontSize="18" FontWeight="Bold" Click="bt_auto_Click"/>
+        <Button x:Name="bt_stop" Content="Stop" Height="43" Margin="496,356,0,0" Width="135" FontSize="18" FontWeight="Bold" Click="bt_stop_Click" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+        <Button x:Name="bt_setDepth" 
+                Content="Set Depth" 
+                Height="43" Margin="496,212,0,0" Width="135" 
+                FontSize="18" FontWeight="Bold" 
+                Click="bt_setDepth_Click" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,17 @@
+D:\ServerSvn\CarAMR\1Ton2\CameraF\bin\Debug\CameraF.exe.config
+D:\ServerSvn\CarAMR\1Ton2\CameraF\bin\Debug\CameraF.exe
+D:\ServerSvn\CarAMR\1Ton2\CameraF\bin\Debug\CameraF.pdb
+D:\ServerSvn\CarAMR\1Ton2\CameraF\obj\Debug\CameraF.csproj.AssemblyReference.cache
+D:\ServerSvn\CarAMR\1Ton2\CameraF\obj\Debug\CameraF.csproj.SuggestedBindingRedirects.cache
+D:\ServerSvn\CarAMR\1Ton2\CameraF\obj\Debug\MainWindow.g.cs
+D:\ServerSvn\CarAMR\1Ton2\CameraF\obj\Debug\App.g.cs
+D:\ServerSvn\CarAMR\1Ton2\CameraF\obj\Debug\CameraF_MarkupCompile.cache
+D:\ServerSvn\CarAMR\1Ton2\CameraF\obj\Debug\CameraF_MarkupCompile.lref
+D:\ServerSvn\CarAMR\1Ton2\CameraF\obj\Debug\MainWindow.baml
+D:\ServerSvn\CarAMR\1Ton2\CameraF\obj\Debug\CameraF.g.resources
+D:\ServerSvn\CarAMR\1Ton2\CameraF\obj\Debug\CameraF.Properties.Resources.resources
+D:\ServerSvn\CarAMR\1Ton2\CameraF\obj\Debug\CameraF.csproj.GenerateResource.cache
+D:\ServerSvn\CarAMR\1Ton2\CameraF\obj\Debug\CameraF.csproj.CoreCompileInputs.cache
+D:\ServerSvn\CarAMR\1Ton2\CameraF\obj\Debug\CameraF.exe
+D:\ServerSvn\CarAMR\1Ton2\CameraF\obj\Debug\CameraF.pdb
+D:\ServerSvn\CarAMR\1Ton2\CameraF\obj\Debug\CameraF.csproj.CopyComplete

@@ -1,0 +1,16 @@
+D:\ServerSvn\CarAMR\1Ton2\CameraRL\bin\Debug\CameraRL.exe.config
+D:\ServerSvn\CarAMR\1Ton2\CameraRL\bin\Debug\CameraRL.exe
+D:\ServerSvn\CarAMR\1Ton2\CameraRL\bin\Debug\CameraRL.pdb
+D:\ServerSvn\CarAMR\1Ton2\CameraRL\bin\Debug\SetupPay.dll
+D:\ServerSvn\CarAMR\1Ton2\CameraRL\obj\Debug\CameraRL.csproj.AssemblyReference.cache
+D:\ServerSvn\CarAMR\1Ton2\CameraRL\obj\Debug\CameraRL.csproj.SuggestedBindingRedirects.cache
+D:\ServerSvn\CarAMR\1Ton2\CameraRL\obj\Debug\CameraRL.FormCameraRL.resources
+D:\ServerSvn\CarAMR\1Ton2\CameraRL\obj\Debug\CameraRL.Properties.Resources.resources
+D:\ServerSvn\CarAMR\1Ton2\CameraRL\obj\Debug\CameraRL.csproj.GenerateResource.cache
+D:\ServerSvn\CarAMR\1Ton2\CameraRL\obj\Debug\CameraRL.csproj.CoreCompileInputs.cache
+D:\ServerSvn\CarAMR\1Ton2\CameraRL\obj\Debug\CameraRL.csproj.CopyComplete
+D:\ServerSvn\CarAMR\1Ton2\CameraRL\obj\Debug\CameraRL.exe
+D:\ServerSvn\CarAMR\1Ton2\CameraRL\obj\Debug\CameraRL.pdb
+D:\ServerSvn\CarAMR\1Ton2\AMR_Command\bin\Debug\CameraRL.exe.config
+D:\ServerSvn\CarAMR\1Ton2\AMR_Command\bin\Debug\CameraRL.exe
+D:\ServerSvn\CarAMR\1Ton2\AMR_Command\bin\Debug\CameraRL.pdb

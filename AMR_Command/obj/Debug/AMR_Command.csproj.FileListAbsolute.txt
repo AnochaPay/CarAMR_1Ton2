@@ -1,0 +1,120 @@
+C:\Users\MARK\Desktop\Auto_Reset\AMR_No.1\SRT_11.3.22 (Fixbug)\SRT_10.3.22_client_dis\SRT_9.3.22 _No.1\SRT_9.3.22 _No.1\SRT_No.1bk_r02\SRT_R00\JUNCTIONFINAL_R01\JUNCTION\AMR_Command\AMR_Command\bin\Debug\AMR_Command.exe.config
+C:\Users\MARK\Desktop\Auto_Reset\AMR_No.1\SRT_11.3.22 (Fixbug)\SRT_10.3.22_client_dis\SRT_9.3.22 _No.1\SRT_9.3.22 _No.1\SRT_No.1bk_r02\SRT_R00\JUNCTIONFINAL_R01\JUNCTION\AMR_Command\AMR_Command\bin\Debug\AMR_Command.exe
+C:\Users\MARK\Desktop\Auto_Reset\AMR_No.1\SRT_11.3.22 (Fixbug)\SRT_10.3.22_client_dis\SRT_9.3.22 _No.1\SRT_9.3.22 _No.1\SRT_No.1bk_r02\SRT_R00\JUNCTIONFINAL_R01\JUNCTION\AMR_Command\AMR_Command\bin\Debug\AMR_Command.pdb
+C:\Users\MARK\Desktop\Auto_Reset\AMR_No.1\SRT_11.3.22 (Fixbug)\SRT_10.3.22_client_dis\SRT_9.3.22 _No.1\SRT_9.3.22 _No.1\SRT_No.1bk_r02\SRT_R00\JUNCTIONFINAL_R01\JUNCTION\AMR_Command\AMR_Command\obj\Debug\AMR_Command.csproj.AssemblyReference.cache
+C:\Users\MARK\Desktop\Auto_Reset\AMR_No.1\SRT_11.3.22 (Fixbug)\SRT_10.3.22_client_dis\SRT_9.3.22 _No.1\SRT_9.3.22 _No.1\SRT_No.1bk_r02\SRT_R00\JUNCTIONFINAL_R01\JUNCTION\AMR_Command\AMR_Command\obj\Debug\AMR_Command.Form1.resources
+C:\Users\MARK\Desktop\Auto_Reset\AMR_No.1\SRT_11.3.22 (Fixbug)\SRT_10.3.22_client_dis\SRT_9.3.22 _No.1\SRT_9.3.22 _No.1\SRT_No.1bk_r02\SRT_R00\JUNCTIONFINAL_R01\JUNCTION\AMR_Command\AMR_Command\obj\Debug\AMR_Command.Form2.resources
+C:\Users\MARK\Desktop\Auto_Reset\AMR_No.1\SRT_11.3.22 (Fixbug)\SRT_10.3.22_client_dis\SRT_9.3.22 _No.1\SRT_9.3.22 _No.1\SRT_No.1bk_r02\SRT_R00\JUNCTIONFINAL_R01\JUNCTION\AMR_Command\AMR_Command\obj\Debug\AMR_Command.Properties.Resources.resources
+C:\Users\MARK\Desktop\Auto_Reset\AMR_No.1\SRT_11.3.22 (Fixbug)\SRT_10.3.22_client_dis\SRT_9.3.22 _No.1\SRT_9.3.22 _No.1\SRT_No.1bk_r02\SRT_R00\JUNCTIONFINAL_R01\JUNCTION\AMR_Command\AMR_Command\obj\Debug\AMR_Command.csproj.GenerateResource.cache
+C:\Users\MARK\Desktop\Auto_Reset\AMR_No.1\SRT_11.3.22 (Fixbug)\SRT_10.3.22_client_dis\SRT_9.3.22 _No.1\SRT_9.3.22 _No.1\SRT_No.1bk_r02\SRT_R00\JUNCTIONFINAL_R01\JUNCTION\AMR_Command\AMR_Command\obj\Debug\AMR_Command.csproj.CoreCompileInputs.cache
+C:\Users\MARK\Desktop\Auto_Reset\AMR_No.1\SRT_11.3.22 (Fixbug)\SRT_10.3.22_client_dis\SRT_9.3.22 _No.1\SRT_9.3.22 _No.1\SRT_No.1bk_r02\SRT_R00\JUNCTIONFINAL_R01\JUNCTION\AMR_Command\AMR_Command\obj\Debug\AMR_Command.exe
+C:\Users\MARK\Desktop\Auto_Reset\AMR_No.1\SRT_11.3.22 (Fixbug)\SRT_10.3.22_client_dis\SRT_9.3.22 _No.1\SRT_9.3.22 _No.1\SRT_No.1bk_r02\SRT_R00\JUNCTIONFINAL_R01\JUNCTION\AMR_Command\AMR_Command\obj\Debug\AMR_Command.pdb
+C:\Users\anocha\Desktop\AMR_No.1\SRT_11.3.22 (Fixbug)\SRT_10.3.22_client_dis\SRT_9.3.22 _No.1\SRT_9.3.22 _No.1\SRT_No.1bk_r02\SRT_R00\JUNCTIONFINAL_R01\JUNCTION\AMR_Command\AMR_Command\bin\Debug\AMR_Command.exe.config
+C:\Users\anocha\Desktop\AMR_No.1\SRT_11.3.22 (Fixbug)\SRT_10.3.22_client_dis\SRT_9.3.22 _No.1\SRT_9.3.22 _No.1\SRT_No.1bk_r02\SRT_R00\JUNCTIONFINAL_R01\JUNCTION\AMR_Command\AMR_Command\obj\Debug\AMR_Command.exe
+C:\Users\anocha\Desktop\AMR_No.1\SRT_11.3.22 (Fixbug)\SRT_10.3.22_client_dis\SRT_9.3.22 _No.1\SRT_9.3.22 _No.1\SRT_No.1bk_r02\SRT_R00\JUNCTIONFINAL_R01\JUNCTION\AMR_Command\AMR_Command\obj\Debug\AMR_Command.pdb
+D:\Projects C#\mark\AMR_Command\AMR_Command\bin\Debug\AMR_Command.exe.config
+D:\Projects C#\mark\AMR_Command\AMR_Command\obj\Debug\AMR_Command.exe
+D:\Projects C#\mark\AMR_Command\AMR_Command\obj\Debug\AMR_Command.pdb
+D:\Projects C#\mark\AMR_Command\AMR_Command\bin\Debug\AMR_Command.exe
+D:\Projects C#\mark\AMR_Command\AMR_Command\bin\Debug\AMR_Command.pdb
+D:\Projects C#\mark\AMR_Command\AMR_Command\obj\Debug\AMR_Command.csprojResolveAssemblyReference.cache
+D:\Projects C#\mark\AMR_Command\AMR_Command\obj\Debug\AMR_Command.Form1.resources
+D:\Projects C#\mark\AMR_Command\AMR_Command\obj\Debug\AMR_Command.Form2.resources
+D:\Projects C#\mark\AMR_Command\AMR_Command\obj\Debug\AMR_Command.Properties.Resources.resources
+D:\Projects C#\mark\AMR_Command\AMR_Command\obj\Debug\AMR_Command.csproj.GenerateResource.Cache
+D:\Projects C#\mark\AMR_Command - Copy\AMR_Command\bin\Debug\AMR_Command.exe.config
+D:\Projects C#\mark\AMR_Command - Copy\AMR_Command\obj\Debug\AMR_Command.exe
+D:\Projects C#\mark\AMR_Command - Copy\AMR_Command\obj\Debug\AMR_Command.pdb
+D:\Projects C#\mark\AMR_Command - Copy\AMR_Command\bin\Debug\AMR_Command.exe
+D:\Projects C#\mark\AMR_Command - Copy\AMR_Command\bin\Debug\AMR_Command.pdb
+D:\Projects C#\mark\AMR_Command - Copy\AMR_Command\obj\Debug\AMR_Command.csprojResolveAssemblyReference.cache
+D:\Projects C#\mark\AMR_Command - Copy\AMR_Command\obj\Debug\AMR_Command.Form1.resources
+D:\Projects C#\mark\AMR_Command - Copy\AMR_Command\obj\Debug\AMR_Command.Form2.resources
+D:\Projects C#\mark\AMR_Command - Copy\AMR_Command\obj\Debug\AMR_Command.Properties.Resources.resources
+D:\Projects C#\mark\AMR_Command - Copy\AMR_Command\obj\Debug\AMR_Command.csproj.GenerateResource.Cache
+C:\Users\MARK\Desktop\Auto_Reset\BLOCK JUNCTION\AMR_Timeout_r01\AMR_Command\bin\Debug\AMR_Command.exe.config
+C:\Users\MARK\Desktop\Auto_Reset\BLOCK JUNCTION\AMR_Timeout_r01\AMR_Command\bin\Debug\AMR_Command.exe
+C:\Users\MARK\Desktop\Auto_Reset\BLOCK JUNCTION\AMR_Timeout_r01\AMR_Command\bin\Debug\AMR_Command.pdb
+C:\Users\MARK\Desktop\Auto_Reset\BLOCK JUNCTION\AMR_Timeout_r01\AMR_Command\obj\Debug\AMR_Command.csproj.AssemblyReference.cache
+C:\Users\MARK\Desktop\Auto_Reset\BLOCK JUNCTION\AMR_Timeout_r01\AMR_Command\obj\Debug\AMR_Command.Form1.resources
+C:\Users\MARK\Desktop\Auto_Reset\BLOCK JUNCTION\AMR_Timeout_r01\AMR_Command\obj\Debug\AMR_Command.Form2.resources
+C:\Users\MARK\Desktop\Auto_Reset\BLOCK JUNCTION\AMR_Timeout_r01\AMR_Command\obj\Debug\AMR_Command.Properties.Resources.resources
+C:\Users\MARK\Desktop\Auto_Reset\BLOCK JUNCTION\AMR_Timeout_r01\AMR_Command\obj\Debug\AMR_Command.csproj.GenerateResource.cache
+C:\Users\MARK\Desktop\Auto_Reset\BLOCK JUNCTION\AMR_Timeout_r01\AMR_Command\obj\Debug\AMR_Command.csproj.CoreCompileInputs.cache
+C:\Users\MARK\Desktop\Auto_Reset\BLOCK JUNCTION\AMR_Timeout_r01\AMR_Command\obj\Debug\AMR_Command.exe
+C:\Users\MARK\Desktop\Auto_Reset\BLOCK JUNCTION\AMR_Timeout_r01\AMR_Command\obj\Debug\AMR_Command.pdb
+C:\Users\MARK\Desktop\Auto_Reset\BLOCK JUNCTION\AMR_SRT_Gui\AMR_Command\bin\Debug\AMR_Command.exe.config
+C:\Users\MARK\Desktop\Auto_Reset\BLOCK JUNCTION\AMR_SRT_Gui\AMR_Command\bin\Debug\AMR_Command.exe
+C:\Users\MARK\Desktop\Auto_Reset\BLOCK JUNCTION\AMR_SRT_Gui\AMR_Command\bin\Debug\AMR_Command.pdb
+C:\Users\MARK\Desktop\Auto_Reset\BLOCK JUNCTION\AMR_SRT_Gui\AMR_Command\obj\Debug\AMR_Command.csproj.AssemblyReference.cache
+C:\Users\MARK\Desktop\Auto_Reset\BLOCK JUNCTION\AMR_SRT_Gui\AMR_Command\obj\Debug\AMR_Command.Form1.resources
+C:\Users\MARK\Desktop\Auto_Reset\BLOCK JUNCTION\AMR_SRT_Gui\AMR_Command\obj\Debug\AMR_Command.Form2.resources
+C:\Users\MARK\Desktop\Auto_Reset\BLOCK JUNCTION\AMR_SRT_Gui\AMR_Command\obj\Debug\AMR_Command.Properties.Resources.resources
+C:\Users\MARK\Desktop\Auto_Reset\BLOCK JUNCTION\AMR_SRT_Gui\AMR_Command\obj\Debug\AMR_Command.csproj.GenerateResource.cache
+C:\Users\MARK\Desktop\Auto_Reset\BLOCK JUNCTION\AMR_SRT_Gui\AMR_Command\obj\Debug\AMR_Command.csproj.CoreCompileInputs.cache
+C:\Users\MARK\Desktop\Auto_Reset\BLOCK JUNCTION\AMR_SRT_Gui\AMR_Command\obj\Debug\AMR_Command.exe
+C:\Users\MARK\Desktop\Auto_Reset\BLOCK JUNCTION\AMR_SRT_Gui\AMR_Command\obj\Debug\AMR_Command.pdb
+D:\Projects C#\mark\AMR_SRT_Gui_r00\AMR_SRT_Gui\AMR_Command\bin\Debug\AMR_Command.exe.config
+D:\Projects C#\mark\AMR_SRT_Gui_r00\AMR_SRT_Gui\AMR_Command\obj\Debug\AMR_Command.exe
+D:\Projects C#\mark\AMR_SRT_Gui_r00\AMR_SRT_Gui\AMR_Command\obj\Debug\AMR_Command.pdb
+D:\Projects C#\mark\AMR_SRT_Gui_r00\AMR_SRT_Gui\AMR_Command\bin\Debug\AMR_Command.exe
+D:\Projects C#\mark\AMR_SRT_Gui_r00\AMR_SRT_Gui\AMR_Command\bin\Debug\AMR_Command.pdb
+D:\Projects C#\mark\AMR_SRT_Gui_r00\AMR_SRT_Gui\AMR_Command\obj\Debug\AMR_Command.csprojResolveAssemblyReference.cache
+D:\Projects C#\mark\AMR_SRT_Gui_r00\AMR_SRT_Gui\AMR_Command\obj\Debug\AMR_Command.Form1.resources
+D:\Projects C#\mark\AMR_SRT_Gui_r00\AMR_SRT_Gui\AMR_Command\obj\Debug\AMR_Command.Form2.resources
+D:\Projects C#\mark\AMR_SRT_Gui_r00\AMR_SRT_Gui\AMR_Command\obj\Debug\AMR_Command.Properties.Resources.resources
+D:\Projects C#\mark\AMR_SRT_Gui_r00\AMR_SRT_Gui\AMR_Command\obj\Debug\AMR_Command.csproj.GenerateResource.Cache
+D:\Projects C#\mark\AMR_Command\AMR_Command\obj\Debug\AMR_Command.err_code.resources
+D:\ServerSvn\CarAMR\AMR_Command\AMR_Command\bin\Debug\AMR_Command.exe.config
+D:\ServerSvn\CarAMR\AMR_Command\AMR_Command\obj\Debug\AMR_Command.exe
+D:\ServerSvn\CarAMR\AMR_Command\AMR_Command\obj\Debug\AMR_Command.pdb
+D:\ServerSvn\CarAMR\AMR_Command\AMR_Command\bin\Debug\AMR_Command.exe
+D:\ServerSvn\CarAMR\AMR_Command\AMR_Command\bin\Debug\AMR_Command.pdb
+D:\ServerSvn\CarAMR\AMR_Command\AMR_Command\obj\Debug\AMR_Command.csprojResolveAssemblyReference.cache
+D:\ServerSvn\CarAMR\AMR_Command\AMR_Command\obj\Debug\AMR_Command.err_code.resources
+D:\ServerSvn\CarAMR\AMR_Command\AMR_Command\obj\Debug\AMR_Command.Form1.resources
+D:\ServerSvn\CarAMR\AMR_Command\AMR_Command\obj\Debug\AMR_Command.Form2.resources
+D:\ServerSvn\CarAMR\AMR_Command\AMR_Command\obj\Debug\AMR_Command.Properties.Resources.resources
+D:\ServerSvn\CarAMR\AMR_Command\AMR_Command\obj\Debug\AMR_Command.csproj.GenerateResource.Cache
+D:\SvnServer\CarAMR\1Ton2\AMR_Command V27\AMR_Command\bin\Debug\AMR_Command.exe.config
+D:\SvnServer\CarAMR\1Ton2\AMR_Command V27\AMR_Command\obj\Debug\AMR_Command.exe
+D:\SvnServer\CarAMR\1Ton2\AMR_Command V27\AMR_Command\obj\Debug\AMR_Command.pdb
+D:\SvnServer\CarAMR\1Ton2\AMR_Command V27\AMR_Command\bin\Debug\AMR_Command.exe
+D:\SvnServer\CarAMR\1Ton2\AMR_Command V27\AMR_Command\bin\Debug\AMR_Command.pdb
+D:\SvnServer\CarAMR\1Ton2\AMR_Command V27\AMR_Command\obj\Debug\AMR_Command.csprojResolveAssemblyReference.cache
+D:\SvnServer\CarAMR\1Ton2\AMR_Command V27\AMR_Command\obj\Debug\AMR_Command.err_code.resources
+D:\SvnServer\CarAMR\1Ton2\AMR_Command V27\AMR_Command\obj\Debug\AMR_Command.Form1.resources
+D:\SvnServer\CarAMR\1Ton2\AMR_Command V27\AMR_Command\obj\Debug\AMR_Command.Form2.resources
+D:\SvnServer\CarAMR\1Ton2\AMR_Command V27\AMR_Command\obj\Debug\AMR_Command.Properties.Resources.resources
+D:\SvnServer\CarAMR\1Ton2\AMR_Command V27\AMR_Command\obj\Debug\AMR_Command.csproj.GenerateResource.Cache
+D:\SvnServer\CarAMR\1Ton2\AMR_Command\bin\Debug\AMR_Command.exe.config
+D:\SvnServer\CarAMR\1Ton2\AMR_Command\obj\Debug\AMR_Command.exe
+D:\SvnServer\CarAMR\1Ton2\AMR_Command\obj\Debug\AMR_Command.pdb
+D:\SvnServer\CarAMR\1Ton2\AMR_Command\bin\Debug\AMR_Command.exe
+D:\SvnServer\CarAMR\1Ton2\AMR_Command\bin\Debug\AMR_Command.pdb
+D:\SvnServer\CarAMR\1Ton2\AMR_Command\obj\Debug\AMR_Command.csprojResolveAssemblyReference.cache
+D:\SvnServer\CarAMR\1Ton2\AMR_Command\obj\Debug\AMR_Command.err_code.resources
+D:\SvnServer\CarAMR\1Ton2\AMR_Command\obj\Debug\AMR_Command.Form1.resources
+D:\SvnServer\CarAMR\1Ton2\AMR_Command\obj\Debug\AMR_Command.Form2.resources
+D:\SvnServer\CarAMR\1Ton2\AMR_Command\obj\Debug\AMR_Command.Properties.Resources.resources
+D:\SvnServer\CarAMR\1Ton2\AMR_Command\obj\Debug\AMR_Command.csproj.GenerateResource.Cache
+C:\Users\anocha\Downloads\1Ton2\AMR_Command\bin\Debug\AMR_Command.exe.config
+C:\Users\anocha\Downloads\1Ton2\AMR_Command\obj\Debug\AMR_Command.exe
+C:\Users\anocha\Downloads\1Ton2\AMR_Command\obj\Debug\AMR_Command.pdb
+D:\ServerSvn\CarAMR\1Ton2\AMR_Command\bin\Debug\AMR_Command.exe.config
+D:\ServerSvn\CarAMR\1Ton2\AMR_Command\bin\Debug\AMR_Command.exe
+D:\ServerSvn\CarAMR\1Ton2\AMR_Command\bin\Debug\AMR_Command.pdb
+D:\ServerSvn\CarAMR\1Ton2\AMR_Command\bin\Debug\CameraRL.exe
+D:\ServerSvn\CarAMR\1Ton2\AMR_Command\bin\Debug\CameraRL.pdb
+D:\ServerSvn\CarAMR\1Ton2\AMR_Command\bin\Debug\CameraRL.exe.config
+D:\ServerSvn\CarAMR\1Ton2\AMR_Command\obj\Debug\AMR_Command.csproj.AssemblyReference.cache
+D:\ServerSvn\CarAMR\1Ton2\AMR_Command\obj\Debug\AMR_Command.csproj.SuggestedBindingRedirects.cache
+D:\ServerSvn\CarAMR\1Ton2\AMR_Command\obj\Debug\AMR_Command.err_code.resources
+D:\ServerSvn\CarAMR\1Ton2\AMR_Command\obj\Debug\AMR_Command.FormMain.resources
+D:\ServerSvn\CarAMR\1Ton2\AMR_Command\obj\Debug\AMR_Command.Form2.resources
+D:\ServerSvn\CarAMR\1Ton2\AMR_Command\obj\Debug\AMR_Command.Properties.Resources.resources
+D:\ServerSvn\CarAMR\1Ton2\AMR_Command\obj\Debug\AMR_Command.csproj.GenerateResource.cache
+D:\ServerSvn\CarAMR\1Ton2\AMR_Command\obj\Debug\AMR_Command.csproj.CoreCompileInputs.cache
+D:\ServerSvn\CarAMR\1Ton2\AMR_Command\obj\Debug\AMR_Command.csproj.CopyComplete
+D:\ServerSvn\CarAMR\1Ton2\AMR_Command\obj\Debug\AMR_Command.exe
+D:\ServerSvn\CarAMR\1Ton2\AMR_Command\obj\Debug\AMR_Command.pdb

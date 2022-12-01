@@ -1,0 +1,6 @@
+header1,header2,data length,command,control,Normal Speed,Angle Stepping,Speed Up Time,Speed Up Unit,Speed Down Time,Speed Down Unit,Lift Control (0-3),Special flag,max speed,min speed,Target X,Target Y,Target Angle,Current X,Current Y,Current Angle,PID_P ,PID_I ,PID_D ,PID_Gain,PID Control Time,Volume Melody,PID Activate Error Value,Condition,End command,Target end command,Traffic,Remote CF,Reveres,Delay,PID2_P(Free) ,PID2_I_Low(Free) ,Area Sensor Front,Area Sensor Right,Area Sensor Left,PID2_Gain(Free)
+AA,55,57,1,1,600,0,0,0,0,0,3,0,30,30,52400,113230,0,,,,3,0,1,1,10,20,0,2,2,115000,0,0,0,0,1,0,0,0,0,1
+AA,55,57,1,1,400,0,0,0,0,0,1,0,30,30,52400,113230,0,,,,3,0,1,1,10,20,0,2,2,115000,0,0,0,0,1,0,1,1,1,1
+AA,55,57,3,4,400,1800,0,0,0,0,1,0,30,30,0,0,0,,,,3,0,1,1,10,20,0,1,3,0,0,0,0,0,1,0,1,1,1,1
+AA,55,57,1,2,1023,0,0,0,0,0,1,0,30,30,52270,112800,0,,,,3,0,1,1,10,20,0,1,1,78700,0,0,0,0,1,0,1,1,1,1
+AA,55,57,1,2,400,0,0,0,0,0,1,0,30,30,52270,115200,0,,,,3,0,1,1,10,20,0,1,1,79700,0,0,0,0,1,0,1,1,1,1

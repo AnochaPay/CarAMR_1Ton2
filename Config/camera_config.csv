@@ -1,0 +1,11 @@
+IP,127.0.0.1
+Port,11000
+Get Depth Cmd,getdepth
+Factor Forward,0.8
+Factor Other,0.8
+Send Every,50
+Depth Roll Down,2
+Depth Roll Up,1.4
+Rail Different,0.2
+Path Exe,D:\D435MultiCam\DeptCamAPI.exe
+Path Bat,D:\D435MultiCam\CamProgram\manualrun.bat
